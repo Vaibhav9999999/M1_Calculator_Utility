@@ -56,14 +56,40 @@
        * Able to perform multiple functions at single time.
        * Solve more complex functions.
 
+      * Solve more complex functions.
+
 * THREATS
 
-       * 
+       * Many Complex calculator are there.
+       * Solved only simple problems.
        
 
 
-
 # 4W and 1H
+1. WHY 
 
+    * To solve mathematical problems with ease.
+    * Easy to use.
+
+2. WHERE
+
+    * Used in industries and shops.
+    * Used in homes for simple calculations.
+
+3. WHO
+
+    * Anyone can use it.
+    * No complex functions.
+
+4. WHEN
+
+    * It can reduce the time complexity.
+    * In the busy schedule of the employees,it is used.
+    * It can be accessed any time and anywhere.
+
+
+5. HOW
+
+    * By simply clicking keys.
 
 
