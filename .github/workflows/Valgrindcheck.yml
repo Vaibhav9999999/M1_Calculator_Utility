@@ -16,5 +16,5 @@ jobs:
     - name: Install
       run: sudo apt-get install valgrind
     - name: Valgrind check
-      run: valgrind ./Calculaor.out
+      run: valgrind ./Calculaor.out 3_Implementation
     
