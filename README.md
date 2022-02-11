@@ -6,6 +6,8 @@
 # Code quality -Codiga #
 ![iCode grade](https://api.codiga.io/project/31107/score/svg)
 
+![iCode grade](https://api.codiga.io/project/31107/status/svg)
+
 
 
 
