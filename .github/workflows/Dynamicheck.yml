@@ -16,5 +16,5 @@ jobs:
     - name: Install
       run: sudo apt-get install valgrind
     - name: Dynamic
-      run: valgrind ./Calculator.out 3_Implementation
+      run: valgrind Calculator.out 3_Implementation
 
