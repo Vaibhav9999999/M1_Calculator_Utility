@@ -29,7 +29,7 @@ void exit();
 // Function Prototype
 
 /**
- * @brief add certain no's
+ * @brief add certain no's and use addition() function to subtract two numbers  
  * 
  * @return int 
  */

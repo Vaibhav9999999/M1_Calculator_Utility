@@ -30,67 +30,67 @@ void exit();
  */
 int addition()  
 {  
-    int i, sum = 0, num, f_num; // declare a local variable   
-    printf (" How many numbers you want to add: ");  
+    int i, sum = 0, num, total_num; // Here declaring a local variable   
+    printf (" Enter how numbers you want to add: ");  
     scanf ("%d", &num);  
     printf (" Enter the numbers: \n ");  
     for (i = 1; i <= num; i++)  
     {  
-        scanf(" %d", &f_num);  
-        sum = sum + f_num;  
+        scanf(" %d", &total_num);  
+        sum = sum + total_num;  
     }  
     printf (" Total Sum of the numbers = %d", sum);  
     return 0;  
 }  
   
-// use subtract() function to subtract two numbers  
+// Here using subtract() function to subtract two numbers  
 
 
   /**
-   * @brief // use subtract() function to subtract two numbers   
+   * @brief // Here using subtract() function to subtract two numbers   
    * 
    * @return int 
    */
  
 int subtract()  
 {  
-    int n1, n2, res;  
+    int n1, n2, result;  
     printf (" The first number is: ");  
     scanf ("  %d", &n1);  
     printf (" The second number is: ");  
     scanf ("  %d", &n2);  
-    res = n1 - n2;    
-    printf (" The subtraction of %d - %d is: %d", n1, n2, res);  
+    result = n1 - n2;    
+    printf (" The subtraction of %d - %d is: %d", n1, n2, result);  
 }  
   
-// use multiply() function to multiply two numbers  
+//Here using multiply() function to multiply two numbers  
 
 /**
- * @brief // use multiply() function to multiply two numbers
+ * @brief // Here using multiply() function to multiply two numbers
  * 
  * @return int 
  */
 int multiply()  
 {  
-    int n1, n2, res;  
+    int n1, n2, result;  
     printf (" The first number is: ");  
     scanf ("  %d", &n1);  
     printf (" The second number is: ");  
     scanf ("  %d", &n2);  
-    res = n1 * n2;    
-    printf (" The multiply of %d * %d is: %d", n1, n2, res);  
+    result = n1 * n2;    
+    printf (" The multiply of %d * %d is: %d", n1, n2, result);  
 }  
   
-// use divide() function to divide two numbers
+// Here using divide() function to divide two numbers
 
 /**
- * @brief // use divide() function to divide two numbers
+ * @brief // Here using divide() function to divide two numbers
  * 
  * @return int 
  */
 int divide()  
 {  
-    int n1, n2, res;  
+    int n1, n2, result;  
     printf (" The first number is: ");  
     scanf ("  %d", &n1);  
     printf (" The second number is: ");  
@@ -98,27 +98,27 @@ int divide()
       
     if (n2 == 0)  
     {  
-        printf (" \n Divisor cannot be zero. Please enter another value ");  
+        printf (" \n  Cannot divide by zero. Please enter diffrent value ");  
         scanf ("%d", &n2);        
     }  
-    res = n1 / n2;    
-    printf (" \n The division of %d / %d is: %d", n1, n2, res);  
+    result = n1 / n2;    
+    printf (" \n The division of %d / %d is: %d", n1, n2, result);  
 }  
   
-// use sq() function to get the square of the given number
+// Here using sq() function to get the square of the given number
 
 /**
- * @brief // use sq() function to get the square of the given number
+ * @brief // Here using sq() function to get the square of the given number
  * 
  * @return int 
  */
 
 int sq()  
 {  
-    int n1, res;  
+    int n1, result;  
     printf (" Enter a number to get the Square: ");  
     scanf ("  %d", &n1);  
       
-    res = n1 * n1;    
-    printf (" \n The Square of %d is: %d", n1, res);  
+    result = n1 * n1;    
+    printf (" \n The Square of %d is: %d", n1, result);  
 } 
