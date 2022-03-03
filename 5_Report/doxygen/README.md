@@ -83,7 +83,6 @@ float divide(float num1, float num2);
 
 float square(float num3);
 
-
 /**
  * @brief percenatage of a no
  * 
