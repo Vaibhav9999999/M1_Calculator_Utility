@@ -5,8 +5,7 @@ int main()
     // declaration a local variable op;
     float num1, num2,num3, result = 0.0f;
     int op;
-    do
-    {
+    
         // displays you the multiple operations of the C Calculator
         printf(" Select an operation to perform the calculation in C Calculator: \n");
         printf("1 Addition\n");
@@ -77,7 +76,6 @@ int main()
         printf("%.2f", result);
  
         printf(" \n \n ********************************************** \n ");
-    } while (op != 7);
 
     return 0;
 }
