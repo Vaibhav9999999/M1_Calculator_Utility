@@ -1,5 +1,8 @@
 # M1_Calculator_Utility
 
+# Build linux
+[![Build-Linux](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/Build-Linux.yml)
+
 # Static check
 [![cppcheck](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/Static-check.yml/badge.svg)](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/Static-check.yml)
 
