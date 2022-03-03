@@ -1,5 +1,8 @@
 # M1_Calculator_Utility
 
+# Unity test
+[![Unit testing unity](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/unity.yml/badge.svg)](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/unity.yml)
+
 # Build linux
 [![Build-Linux](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Vaibhav9999999/M1_Calculator_Utility/actions/workflows/Build-Linux.yml)
 
