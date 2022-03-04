@@ -1,13 +1,17 @@
 # Requirements
 
 # High level requirements
+
 1. HLR1                   Addition
 2. HLR2                   Multiplication
 3. HLR3                   Subtraction
 4. HLR4                   Division
 5. HLR5                   Square
 6. HLR6                   Percentage
+
+
 # Low Level requirements
+
 1. LLR1  
     * Declare local variables
     * Print the Choice (Addition)
